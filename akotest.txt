@@ -1,2 +1,3 @@
 ako new test
-test modify 1
+test modify 11
+test modify 2
