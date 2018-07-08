@@ -1,1 +1,2 @@
 ako new test
+test modify 1
